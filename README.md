@@ -15,7 +15,7 @@ Aspiring software engineer and data enthusiast currently studying at Botswana Ac
 ### **Education**
 
 **Botswana Accountancy College** 
-*Bsc(Hons) Business Intelligence and Data Analytics*
+ *-Bsc(Hons) Business Intelligence and Data Analytics*
 *2025 – Present*
 
 **Ledumang Senior Secondary School** – BGCSE

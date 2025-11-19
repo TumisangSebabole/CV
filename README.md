@@ -1,6 +1,4 @@
 # CV
----
-
 **Tumisang Trevor Sebabole**<br>
 P.O Box 50331<br>
 Gaborone, Botswana<br>
